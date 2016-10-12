@@ -12,10 +12,12 @@ package org.mypackage.hello;
 public class NameHandler {
     private String name;
     
+    //constructor
     public NameHandler() {
         name = null;
     }
 
+    //getters and setter
     /**
      * @return the name
      */
